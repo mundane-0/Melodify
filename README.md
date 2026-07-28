@@ -10,8 +10,6 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/mundane-0/Melodify?style=for-the-badge)](https://github.com/mundane-0/Melodify/issues)
 
-[![GitHub license](https://img.shields.io/github/license/mundane-0/Melodify?style=for-the-badge)](LICENSE) <!-- TODO: Add LICENSE file to specify license -->
-
 **A comprehensive web application for advanced music processing and real-time audio interaction.**
 
 </div>
