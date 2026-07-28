@@ -31,9 +31,9 @@ Melodify is a web application designed to empower users with a wide array of mus
  
 ## 🖥️ Screenshots
 
-![Melodify Main Interface](Screenshots/Home.png)
-<img src="https://github.com/mundane-0/Melodify/blob/1225eb97f65f4aa2f0a719fd5ab9853d51f7a392/screenshots/Home.png?raw=true" width=50% height=50%>
-![Melodify Analysis View](Screenshots/Stats.png)
+<img src="https://github.com/mundane-0/Melodify/blob/1225eb97f65f4aa2f0a719fd5ab9853d51f7a392/screenshots/Home.png?raw=true" alt="Melodify Main Interface" width=50% height=50%>
+<img src="https://github.com/mundane-0/Melodify/blob/mundane-0-screenshots-melodify/screenshots/Import.png?raw=true" alt="Melodify Import Interface" width=50% height=50%>
+<img src="https://github.com/mundane-0/Melodify/blob/mundane-0-screenshots-melodify/screenshots/Stats.png?raw=true" alt="Melodify Analysis View" width=50% height=50%>
 
 ## 🛠️ Tech Stack
 
