@@ -135,7 +135,7 @@ To contribute or develop on Melodify:
 
 ## 🧪 Testing
 
-Tested on Arch Linux, Mango desktop environment, Sway window manager
+Tested on Arch Linux with *HakuSpace* (Mango desktop environment, Sway window manager)
 
 ## 🚀 Deployment
 
