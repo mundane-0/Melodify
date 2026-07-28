@@ -1,0 +1,5 @@
+flask
+pywebview
+pystray
+Pillow
+yt-dlp

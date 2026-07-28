@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+old_patches/
+patch.py
+fixpatch*.py
+patch_app.py
+install_launcher.py
+# --- tes donnees : ne JAMAIS pousser (vu dans ton dossier) ---
+cache/
+.cache/
+last.json
+library.json
+prefs.json
+*.log
+.DS_Store
