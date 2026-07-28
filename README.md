@@ -6,5 +6,7 @@ plateau système, et interface entièrement personnalisable.
 
 ## Installation
 ```bash
+git clone https://github.com/mundane-0/Melodify.git
+cd Melodify
 chmod +x install.sh
 ./install.sh            # ajoute --no-system-deps pour sauter les paquets système
