@@ -32,7 +32,7 @@ Melodify is a web application designed to empower users with a wide array of mus
 ## 🖥️ Screenshots
 
 ![Melodify Main Interface](Screenshots/Home.png)
-
+<img src="Screenshots/Home.png" alt="Melodify Main Interface" width="400" height="300">
 ![Melodify Analysis View](Screenshots/Stats.png)
 
 ## 🛠️ Tech Stack
